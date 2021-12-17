@@ -1,1 +1,1 @@
-FROM ghcr.io/andtechstudios/piezo:edge
+FROM ghcr.io/andtechstudios/piezo
