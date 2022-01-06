@@ -1,1 +1,1 @@
-FROM ghcr.io/andtechstudios/piezo
+FROM gitpod/workspace-full
